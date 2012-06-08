@@ -16,7 +16,7 @@
         "symfony/symfony" : "2.0.12"
     },
     "autoload": {
-        "psr-0": { "Orderly\\PayPalIpnBundle": "" }
+        "psr-0": { "Orderly\\PayPalIpnBundle": "src/" }
     },
     "target-dir": "Orderly\\PayPalIpnBundle"
 }
